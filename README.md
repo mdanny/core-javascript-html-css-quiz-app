@@ -1,0 +1,1 @@
+This project makes use of core Javascript, HTML and CSS to build a quiz app.
